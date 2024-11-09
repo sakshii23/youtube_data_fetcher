@@ -20,7 +20,7 @@ YouTube Data Fetcher is a Python application that fetches video and comment data
 
     ```sh
     git clone https://github.com/sakshii23/youtube_data_fetcher.git
-    cd youtubedatafetcher
+    cd youtube_data_fetcher
     ```
 
 2. **Create a virtual environment:**
